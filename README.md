@@ -1,2 +1,2 @@
-# Haunting-s-Nuker
-BETA Nuker, Please report any errors that you encounter. 
+# Haunting's discord nuker
+ * Author: [TheHauntingStar]
